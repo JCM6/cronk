@@ -1,0 +1,1 @@
+Summary file containing the description for the art and data assets referenced from the tag directory.
