@@ -1,0 +1,1 @@
+Directory containing notes and snippets of articles guiding the design of the project.
