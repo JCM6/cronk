@@ -1,0 +1,1 @@
+Addons directory to conatin all of the necessary files for addons to legacy.
