@@ -1,0 +1,1 @@
+This file will contain all of the description and design parameters for the base character stats tables.
